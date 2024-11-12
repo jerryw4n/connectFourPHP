@@ -1,6 +1,6 @@
 # Connect Four PHP Assignment
 
-This project is focused on creating a static version of a Connect Four game board using PHP and HTML. The assignment utilizes XAMPP to run a local server and PHP for generating the game board structure.
+This project is focused on creating a static version of a Connect Four game board using PHP and HTML. It utilizes XAMPP to run a local server and PHP to generate the game board structure.
 
 ## Assignment Scope
 
